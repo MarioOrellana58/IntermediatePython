@@ -6,4 +6,4 @@ DataCamp intermediate python course who goes across Matplotlib, Dictionaries &am
 
 # Results
 
-## After 10,000 simulations the probability of winning this bit is 77.5%
+## After 10,000 simulations the probability of winning this bet is 77.5%
